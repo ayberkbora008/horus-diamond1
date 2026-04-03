@@ -52,12 +52,7 @@ box-shadow: 0 0 40px rgba(0,255,255,0.2);
 <td align="center">
 
 <!-- LOGO -->
-<img src="cid:logo" width="110" style="
-border-radius: 50%;
-border: 2px solid gold;
-box-shadow: 0 0 20px gold;
-margin-bottom: 20px;
-"/>
+<img src="https://horus-diamond1-hv3v.vercel.app/horus2.png" />
 
 <!-- TITLE -->
 <h1 style="
