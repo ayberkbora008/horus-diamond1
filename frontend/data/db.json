@@ -1,0 +1,128 @@
+{
+  "orders": [
+    {
+      "id": "1774747811076",
+      "bigo_id": "DENEME",
+      "amount": 10000,
+      "payment": "havale",
+      "approved": true,
+      "approvedBy": "Admin",
+      "approvedDate": "2026-03-29T01:30:14.526Z"
+    },
+    {
+      "id": "1774747828414",
+      "bigo_id": "DENEME 2",
+      "amount": 5000,
+      "payment": "havale",
+      "approved": false
+    }
+  ],
+  "loads": [
+    {
+      "id": "1774718080888",
+      "bigo_id": "21212",
+      "amount": 10000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-28T17:14:40.888Z"
+    },
+    {
+      "id": "1774717062428",
+      "bigo_id": "DENEME ",
+      "amount": 1000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-28T16:57:42.428Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "1774747811076",
+      "bigo_id": "DENEME",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T01:30:14.526Z"
+    },
+    {
+      "id": "1774747744531",
+      "bigo_id": "HORUS",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T01:29:07.490Z"
+    },
+    {
+      "id": "1774747592555",
+      "bigo_id": "HORUS",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T01:26:38.414Z"
+    },
+    {
+      "id": "1774747558657",
+      "bigo_id": "HORUS",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T01:26:02.456Z"
+    },
+    {
+      "id": "1774746636006",
+      "bigo_id": "HORUS",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T01:10:38.836Z"
+    },
+    {
+      "id": "1774745584910",
+      "bigo_id": "HORUS",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-29T00:53:09.380Z"
+    },
+    {
+      "id": "1774745180185",
+      "bigo_id": "DENEME",
+      "amount": 10000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-29T00:46:24.884Z"
+    },
+    {
+      "id": "1774719793831",
+      "bigo_id": "bora",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-28T17:43:23.417Z"
+    },
+    {
+      "id": "1774719098696",
+      "bigo_id": "bora",
+      "amount": 1000,
+      "admin": "Admin",
+      "date": "2026-03-28T17:33:22.420Z"
+    },
+    {
+      "id": "1774718066955",
+      "bigo_id": "DENEME",
+      "amount": 10000,
+      "admin": "Admin",
+      "date": "2026-03-28T17:31:07.052Z"
+    },
+    {
+      "id": "1774718047380",
+      "bigo_id": "DENEME",
+      "amount": 10000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-28T17:14:13.406Z"
+    },
+    {
+      "id": "1774717121032",
+      "amount": 10000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-28T17:13:57.439Z"
+    },
+    {
+      "id": "1774717084094",
+      "amount": 10000,
+      "admin": "ayberkbora008",
+      "date": "2026-03-28T16:58:14.915Z"
+    }
+  ],
+  "total": -152000
+}
